@@ -32,6 +32,7 @@ search:
   # These are the terms you would be typing into the website's search field:
   keywords:
     - Python
+    - Marketing Analyst
 
   # Don't return any listings older than this:
   max_listing_days: 35
