@@ -3,7 +3,7 @@
 
 # Path where your master CSV, block-lists, and cache data will be stored
 # NOTE: we create any missing directories in these filepaths
-master_csv_file: demo_job_search_results/demo_search.csv
+master_csv_file: demo_job_search_results/demo_search_demo.csv
 cache_folder: demo_job_search_results/cache
 block_list_file: demo_job_search_results/demo_block_list.json
 duplicates_list_file: demo_job_search_results/demo_duplicates_list.json
@@ -31,7 +31,7 @@ search:
 
   # These are the terms you would be typing into the website's search field:
   keywords:
-    - Data Analyst
+    - Python
 
   # Don't return any listings older than this:
   max_listing_days: 35
