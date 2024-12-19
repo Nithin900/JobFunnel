@@ -26,14 +26,12 @@ search:
 
   # Region that we are searching for jobs within:
   province_or_state: "ON" # NOTE: this is generally 2 characters long.
-  city: "Toronto" # NOTE: this is the full city / town name.
-  radius: 50 # km (NOTE: if we were in locale: USA_ENGLISH it's in miles)
+  city: "Waterloo" # NOTE: this is the full city / town name.
+  radius: 25 # km (NOTE: if we were in locale: USA_ENGLISH it's in miles)
 
   # These are the terms you would be typing into the website's search field:
   keywords:
     - Python
-    - Marketing Analyst
-
 
   # Don't return any listings older than this:
   max_listing_days: 35
